@@ -7,7 +7,7 @@ import itertools
 from collections import namedtuple
 import time
 import math
-from functools import partial
+from functools import partial 
 
 settings.configure() #ignoring django bullshit
 
